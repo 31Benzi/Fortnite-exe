@@ -1,1 +1,2 @@
-Install them manually not in folder
+Install them manually not as zip
+
