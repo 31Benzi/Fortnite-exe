@@ -7,3 +7,9 @@ Click the links below to download each version:
 - [32.11.exe](https://raw.githubusercontent.com/31Benzi/Fortnite-exe/main/32.11.exe)
 - [33.30.exe](https://raw.githubusercontent.com/31Benzi/Fortnite-exe/main/33.30.exe)
 - [38.00.exe](https://raw.githubusercontent.com/31Benzi/Fortnite-exe/main/38.00.exe)
+
+---
+
+## Credits
+
+All credits go to **Mariki**.
