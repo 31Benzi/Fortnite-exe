@@ -12,4 +12,6 @@ Click the links below to download each version:
 
 ## Credits
 
-All credits go to **Mariki**.
+**Mariki**
+
+**Stern**
